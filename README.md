@@ -183,6 +183,73 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 * [StackExachange Robotics community](https://robotics.stackexchange.com)
 * [47 Programmable robotic kits](http://www.intorobotics.com/47-programmable-robotic-kits/)
 
+### Robotics Labs and theirs repos ###
+Gramazio Kohler Research 
+ Zürich, Switzerland   http://gramaziokohler.arch.ethz.ch/
+
+
+Innovation and Enterprise Research Laboratory
+ University of Technology Sydney
+https://github.com/uts-magic-lab
+
+
+CCNY Robotics Lab
+ 
+The City College of New York
+
+https://github.com/ccny-ros-pkg
+
+Personal Robotics Laboratory 
+ University of Washington
+  https://personalrobotics.cs.washington.edu/
+ 
+
+https://github.com/personalrobotics
+
+
+http://roboticslab.uc3m.es
+ Leganés, Spain
+  http://robots.uc3m.es
+
+https://github.com/roboticslab-uc3m
+
+
+Service Robotics Lab 
+Social Robotics, Social Navigation, Machine Learning
+ Pablo de Olavide University
+  http://robotics.upo.es
+
+https://github.com/robotics-upo
+
+
+https://github.com/raclab
+
+ 
+ 
+Rutgers University
+ 
+
+https://github.com/rutgers-arc-lab
+
+Robust Field Autonomy Lab 
+ Hoboken, NJ
+
+
+https://github.com/RobustFieldAutonomyLab
+
+
+ETH Zurich Legged Robotics
+https://github.com/leggedrobotics
+
+
+*[Robotics learning and autonomy at Brown robotics lab.](http://robotics.cs.brown.edu)
+
+*[Autonomous Systems, Control and Optimization (ASCO) Lab
+Johns hopkins](http://asco.lcsr.jhu.edu)
+
+https://github.com/jhu-asco
+
+
 ### Related awesome lists ###
 * [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
 * [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
